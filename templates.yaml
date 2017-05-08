@@ -1,0 +1,3 @@
+prompt_welcome: How are you today pal?
+
+prompt_get_mood: You're feeling {{ mood }}
