@@ -1,0 +1,23 @@
+{
+ "intents": [
+   {
+     "slots": [
+       {
+         "name": "mood",
+         "type": "MOODS"
+       }
+     ],
+     "intent": "GetMoodIntent"
+   },
+   {
+     "intent": "RespondToMoodIntent"
+   },
+   {
+     "intent": "TellAJokeIntent"
+   }
+ ]
+}
+GetMoodIntent I'm feeling {mood}
+RespondToMoodIntent What should I do
+RespondToMoodIntent What are my options
+TellAJokeIntent Tell me a joke
