@@ -11,10 +11,10 @@ Alexa Build-a-thon Mood Monitor Skill for Seniors and Elderly citizens
 ## Idea
 - An application that enables you tell Alexa how you feel during the day.
 - Alexa is able to suggest activities for you depending on your mood.
-If you're happy and the weather is good, Alexa can list out all the events available for you to attend today
-If you're sad, Alexa can offer to tell you a joke or play you a favorite song
-If you're lonely, Alexa can tell you a story to cheer you up.
-If you're ill, Alex can connect to the 'teledoctor' platform, or put you in touch with your PCP
+- - If you're happy and the weather is good, Alexa can list out all the events available for you to attend today
+- - If you're sad, Alexa can offer to tell you a joke or play you a favorite song
+- - If you're lonely, Alexa can tell you a story to cheer you up.
+- - If you're ill, Alex can connect to the 'teledoctor' platform, or put you in touch with your PCP
 - At the end of every week, Alexa sends a report of your reported mood to your care-giver, family, or doctor.
 - If Alexa doesn't hear from you for a couple of days, she can send an email or text message to your care-giver, to ensure that everything is alright 
 
